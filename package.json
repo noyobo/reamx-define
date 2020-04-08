@@ -7,7 +7,6 @@
     "build": "webpack"
   },
   "dependencies": {
-    "babel-loader": "^8.1.0",
     "babel-preset-remax": "^1.19.6",
     "react": "^16.13.1",
     "remax": "^1.19.6",
